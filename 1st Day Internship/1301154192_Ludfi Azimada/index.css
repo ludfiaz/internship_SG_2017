@@ -1,0 +1,62 @@
+	h1{
+		font-family : monospace;
+		color :  red;
+		font size : 20px;
+		text-align : center;
+		margin-left : ;
+	}
+
+	h2{
+		font-family : Exo;
+		color : blue;
+		font size : 8px;
+		text-align : left;
+		margin-left : 10px;
+	}
+
+	h3 {
+		font-family : Exo;
+		color : blue;
+		font size : 8px;
+		text-align : left;
+		margin-left : 10px;
+	}
+
+	h4 {
+		font-size : 6px;
+		margin-left : 10px;
+		text-align : left;
+	}
+
+	h5 {
+		text-align : left;
+		font-size : 6px;
+		margin-left : 10px;
+	}
+
+	h6 {
+		font-size : 6px;
+		margin-left : 10px;
+		text-align : left;
+	}
+
+	img{
+		width : 10em;
+		margin :4px;
+		padding : 4px;
+		display : block; 
+	}
+	table {
+		border : 3px solid black;
+	}
+
+	#pleft {
+		border : 4px solid black;
+		letter-spacing : 12px; 
+
+	
+}
+
+	body{
+		background-color : white; 
+	}
